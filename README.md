@@ -56,7 +56,7 @@ Muslim Api V2 adalah Api yang berisi data2 islami yang lebih lengkap daripada ve
 
 ## ☪️ Data Hadith JSON
 | Menu | Penjelasan | Endpoint | Parametr |
-|------------ | ---------| ---------|
+| ------------ | --------- | --------- | --------- |
 | Daftar Imam | Menampilkan Daftar kitab-kita Hadits | /hadits |  |
 | Abu Daud | Menampilkan Data Hadith Abu Daud | /hadits/abu-daud | page=1?limit=20 |
 | Ahmad | Menampilkan Data Hadith Ahmad | /hadits/ahmad | page=1?limit=20 |
